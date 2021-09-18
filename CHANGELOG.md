@@ -1,3 +1,13 @@
+# Version 1.2.0
+
+## Features
+
+- Added lab1 presentation
+
+## Documentation
+
+- Convert presentation to pdf
+
 # Version 1.1.0
 
 ## Features
