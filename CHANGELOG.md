@@ -1,3 +1,9 @@
+# Version 2.2.0
+
+## Features
+ 
+- Added lab2 presentation + report
+
 # Version 1.2.0
 
 ## Features
