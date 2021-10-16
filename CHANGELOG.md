@@ -1,3 +1,9 @@
+# Version 3.2.0
+
+## Features
+ 
+- Added lab3 presentation + report
+
 # Version 2.2.0
 
 ## Features
