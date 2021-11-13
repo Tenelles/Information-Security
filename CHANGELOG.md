@@ -1,3 +1,9 @@
+# Version 5.2.0
+
+## Features
+ 
+- Added lab5 presentation + report
+
 # Version 4.2.0
 
 ## Features
