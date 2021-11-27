@@ -1,3 +1,9 @@
+# Version 6.2.0
+
+## Features
+ 
+- Added lab6 presentation + report
+
 # Version 5.2.0
 
 ## Features
