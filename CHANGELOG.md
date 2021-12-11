@@ -1,3 +1,9 @@
+# Version 7.2.0
+
+## Features
+ 
+- Added lab7 code+presentation + report
+
 # Version 6.2.0
 
 ## Features
