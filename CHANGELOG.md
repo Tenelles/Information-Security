@@ -1,3 +1,9 @@
+# Version 8.2.0
+
+## Features
+ 
+- Added lab8 code + presentation + report
+
 # Version 7.2.0
 
 ## Features
